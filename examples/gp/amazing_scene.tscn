@@ -1,7 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://11goqeckjw1r"]
+[gd_scene load_steps=2 format=3 uid="uid://11goqeckjw1r"]
 
-[ext_resource type="Texture2D" uid="uid://rb8smo0f45mc" path="res://icon.svg" id="1_tidh1"]
-[ext_resource type="Script" path="res://ColorRect.gd" id="2_5yfq8"]
+[ext_resource type="Texture2D" uid="uid://btpx6v347s3tm" path="res://icon.svg" id="1_tidh1"]
 
 [node name="Node2D" type="Node2D"]
 
@@ -23,4 +22,3 @@ grow_horizontal = 2
 grow_vertical = 2
 rotation = 0.811578
 pivot_offset = Vector2(20, 20)
-script = ExtResource("2_5yfq8")
